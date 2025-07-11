@@ -14,10 +14,10 @@ You can visit [Kaggle ((https://www.kaggle.com))]
 ## Framework
 ![CSPANet](https://github.com/DUT-ZYu/CSPANet-main/blob/main/Figure_2_01.jpg)
 The overall pipeline of our CSPANet framework.
-## Results
-![CSPANet- image style transfer](https://github.com/DUT-ZYu/CSPANet-main/blob/main/Figure_8_01.jpg)
-## Results
-![CSPANet- video style transfer](https://github.com/DUT-ZYu/CSPANet-main/blob/main/Figure_12_01.jpg)
+## Results image style transfer
+![CSPANet- ](https://github.com/DUT-ZYu/CSPANet-main/blob/main/Figure_8_01.jpg)
+## Results video style transfer
+![CSPANet- ](https://github.com/DUT-ZYu/CSPANet-main/blob/main/Figure_12_01.jpg)
 
 ## Pretrained models
 You can visit [Google(https://drive.google.com/drive/folders/1F1v_PDSe0CVtIE2o8ow6uE_yICbas2Y2)],includings the pre-trained model weights and the VGG weight!
