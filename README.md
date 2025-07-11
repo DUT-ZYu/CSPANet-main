@@ -5,12 +5,19 @@ The paper will be soon to release!
 **To run our code, please follow these steps:**
  Training dataset:[MS-COCO/WikiArt](https://www.kaggle.com/datasets/shaorrran/coco-wikiart-nst-dataset-512-100000)
 
-### Create a Conda Environment
+## Environment
+You can visit [Kaggle ((https://www.kaggle.com))] 
 
-```
-conda env create -f environment.yaml
-conda activate CSPANet
-```
+## Framework
+![DEMAL](https://github.com/ZYDeeplearning/DEMAL_Model/blob/main/1.png)
+The overall pipeline of our DEMAL framework.
+## Results
+![DEMAL](https://github.com/ZYDeeplearning/DEMAL_Model/blob/main/2.png)
+![DEMAL](https://github.com/ZYDeeplearning/DEMAL_Model/blob/main/3.png)
+![DEMAL](https://github.com/ZYDeeplearning/DEMAL_Model/blob/main/4.png)
+
+## Pretrained models
+You can visit [Google(https://drive.google.com/drive/folders/1F1v_PDSe0CVtIE2o8ow6uE_yICbas2Y2)],includings the pre-trained model weights and the VGG weight!
 
 ## Run CSAPNet
 
