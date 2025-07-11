@@ -9,7 +9,7 @@ The paper will be soon to release!
 You can visit [Kaggle ((https://www.kaggle.com))] 
 
 ## Framework
-![DEMAL](https://github.com/ZYDeeplearning/DEMAL_Model/blob/main/1.png)
+![CSPANet](https://github.com/DUT-ZYu/CSPANet-main/blob/main/mymodel.pdf)
 The overall pipeline of our DEMAL framework.
 ## Results
 ![DEMAL](https://github.com/ZYDeeplearning/DEMAL_Model/blob/main/2.png)
