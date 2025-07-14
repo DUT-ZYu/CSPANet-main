@@ -1,4 +1,4 @@
-# [Style transfer] CSPANet: Cross-Route Statistical Partition Attention Network for Style Transfer
+# [Style transfer] CSPANet: Cross-Route Statistical Partition Attention Network for Style Transfer (NC 2025)
 The paper will be soon to release! 
 ## Usage
 
